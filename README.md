@@ -27,8 +27,3 @@ Full-stack developer based in Bangkok, Thailand. I build production web apps end
   ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-
-  #### GitHub Stats
-
-  ![Yel Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YelYan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YelYan&layout=compact&theme=tokyonight&hide_border=true)
